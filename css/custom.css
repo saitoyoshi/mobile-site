@@ -1,0 +1,13 @@
+.card-img-overlay-text-pos {
+  top: calc(25% - 0.5rem);
+}
+.thin-text {
+  color: rgb(94, 100, 105);
+  font-weight: 200;
+}
+.bg-my-danger {
+  background-color: rgba(230, 80, 80, 0.727);
+}
+.bg-my-info {
+  background-color: rgba(100, 100, 225, 0.87);
+}
