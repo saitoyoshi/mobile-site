@@ -6,9 +6,9 @@ function switchLang() {
   const value = selectForm.value;
   if (value === 'chinese') {
     // console.log('c');
-    location.href = '/zh/index.html';
+    location.href = '/mobile-site/zh/index.html';
   } else if (value === 'korean') {
-    location.href = '/ko/index.html';
+    location.href = '/mobile-site/ko/index.html';
     // console.log('korean');
   }
 }
